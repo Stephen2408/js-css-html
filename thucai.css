@@ -1,0 +1,33 @@
+body {
+    background-color: #004C00;
+    font-family: Arial,sans-serif;
+    font-size: 90%;
+    padding: 10px;
+}
+h1 {
+    margin: 0;
+    text-align: center;
+    color: chartreuse;
+    text-transform: uppercase;
+}
+#type{
+    margin: 0;
+}
+h2 {
+    color: chartreuse;
+    margin: 0;
+}
+#goods{
+    text-transform: capitalize;
+    width: auto;
+    border-top: 2px solid #004C00;
+    font-size: 20px;
+}
+ul{
+    display: inherit;
+    margin-top: 0;
+}
+fieldset{
+    margin: auto;
+    font-style: italic;
+}
